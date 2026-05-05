@@ -1,3 +1,8 @@
+# Nama : Evan Galang Wiryanto
+# NIM  : 3337250146
+# Kelas: A
+# Mata Kuliah: Struktur Data
+
 def find_max(arr):
     if not arr:
         return None, 0

@@ -1,3 +1,8 @@
+# Nama : Evan Galang Wiryanto
+# NIM  : 3337250146
+# Kelas: A
+# Mata Kuliah: Struktur Data
+
 def linear_search_count(arr, x):
     count = 0
     for i in range(len(arr)):
